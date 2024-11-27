@@ -1,6 +1,6 @@
 #
 
-## Utilizaremos una red neuronal densa para desarrollar nuestro algoritmo, el cual estará dedicado a realizar conversiones de temperatura, específicamente de Celsius a Fahrenheit.
+## Utilizamos una red neuronal densa para desarrollar nuestro algoritmo, el cual esta dedicado a realizar conversiones de temperatura, específicamente de Celsius a Fahrenheit.
 
 ### La Librería Keras, se utilizara para crear las capas neuronales utilizando el modelo secuencial.
 
